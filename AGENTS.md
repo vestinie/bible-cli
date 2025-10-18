@@ -245,9 +245,9 @@ The key is using AI as a teaching tool and collaborator, not just a code generat
 
 ---
 
-**Student:** Ishimwe Vestine 
+**Student:** Ishimwe Vestine  
 **Course:** IS4010  
 **Institution:** University of Cincinnati  
-**Semester:** Fall 2025
+**Semester:** Fall 2025  
 **Date:** October 2025  
 **AI Assistant:** Claude (Anthropic)
